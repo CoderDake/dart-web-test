@@ -3,5 +3,5 @@ in `lib/`, and example unit test in `test/`.
 
 To run the code:
 ```sh
-dart run --observe bin/web_test.dart
+dart run --pause-isolates-on-start --observe bin/web_test.dart
 ```
